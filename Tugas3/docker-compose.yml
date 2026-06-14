@@ -1,0 +1,5 @@
+services:
+  ml-analysis:
+    build: .
+    ports:
+      - "5000:5000"
