@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analisa Data Mobile Legends</title>
+</head>
+<body>
+
+<h1>Analisa Data Mobile Legends</h1>
+
+<h2>Ringkasan</h2>
+
+<p>Hero Terfavorit : {{ hero_terfavorit }}</p>
+<p>Total Match : {{ match_terbanyak }}</p>
+
+<p>Hero Winrate Tertinggi : {{ hero_winrate }}</p>
+<p>Winrate : {{ winrate }}%</p>
+
+<p>Rata-rata Winrate : {{ rata_winrate }}%</p>
+
+<h2>Data Hero</h2>
+
+{{ tables|safe }}
+
+</body>
+</html>
