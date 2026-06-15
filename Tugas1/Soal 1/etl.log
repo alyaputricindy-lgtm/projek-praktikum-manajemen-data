@@ -1,0 +1,14 @@
+[2026-06-15 00:19:37] [INFO]  ====== ETL Dimulai (PID: 8259) ======
+[2026-06-15 00:19:37] [INFO]  Memproses baris 1 sampai 5
+[2026-06-15 00:19:37] [INFO]  Berhasil. 3 transaksi disimpan.
+[2026-06-15 00:19:37] [INFO]  ====== ETL Selesai ======
+[2026-06-15 00:19:37] [INFO]  Lock dihapus. Selesai.
+[2026-06-15 00:25:01] [INFO]  ====== ETL Dimulai (PID: 8614) ======
+[2026-06-15 00:25:01] [INFO]  Tidak ada data baru. Skip.
+[2026-06-15 00:25:01] [INFO]  Lock dihapus. Selesai.
+[2026-06-15 00:30:01] [INFO]  ====== ETL Dimulai (PID: 9097) ======
+[2026-06-15 00:30:01] [INFO]  Tidak ada data baru. Skip.
+[2026-06-15 00:30:01] [INFO]  Lock dihapus. Selesai.
+[2026-06-15 00:35:01] [INFO]  ====== ETL Dimulai (PID: 9770) ======
+[2026-06-15 00:35:01] [INFO]  Tidak ada data baru. Skip.
+[2026-06-15 00:35:01] [INFO]  Lock dihapus. Selesai.
